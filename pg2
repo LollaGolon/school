@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+
+<div >
+  
+     <button onclick="myFunc()">kk</button>
+    
+</div>
+<p id="fna">uuu</p>
+
+<script>
+    function myFunc(){
+         
+          document.getElementById("fna").innerHTML="ing";
+    }
+</script>
+</body>
+</html>
